@@ -1,6 +1,6 @@
 # api_web_demo_face_recognition
 ## Library
-- tìm cài reatjs, nodejs, ...
+- tìm cài reatjs, nodejs, axois, ...
 - xem thiếu gì thì cài nha
 ## Run api
 - cd api
